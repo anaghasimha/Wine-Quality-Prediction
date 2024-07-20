@@ -11,3 +11,6 @@
 7. Update the pipeline
 8. Update the main.py
 9. Update the dvc.yaml
+
+## dagshub
+MLFLOW - URI: https://dagshub.com/anaghasimha/Wine-Quality-Prediction.mlflow
