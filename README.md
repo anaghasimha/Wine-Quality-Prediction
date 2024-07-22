@@ -14,3 +14,6 @@
 
 ## dagshub
 MLFLOW - URI: https://dagshub.com/anaghasimha/Wine-Quality-Prediction.mlflow
+
+## ECR Repo
+381492074894.dkr.ecr.us-east-1.amazonaws.com/mlproj
